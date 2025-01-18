@@ -1,0 +1,19 @@
+/* CSS reference: https://www.wix.com/velo/reference/$w/styling-elements-with-css */
+ 
+/* These CSS styles will be applied globally to every page of this site. Write your CSS here, e.g.: */
+
+/*  Change button background <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+
+<model-viewer alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" 
+  src="shared-assets/models/NeilArmstrong.glb" 
+  ar 
+  environment-image="shared-assets/environments/moon_1k.hdr" 
+  poster="shared-assets/models/NeilArmstrong.webp" 
+  shadow-intensity="1" 
+  camera-controls 
+  touch-action="pan-y">
+</model-viewer>
+color to red: */
+/* .button {
+    background-color: red;
+} */
